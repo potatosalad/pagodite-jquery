@@ -1,0 +1,1 @@
+require 'pagodite_jquery'
